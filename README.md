@@ -218,35 +218,6 @@ Worked on:
 
 Web development and backend system development.
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-![Mano GitHub stats](https://github-readme-stats.vercel.app/api?username=manonmani-pl&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manonmani-pl&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manonmani-pl&theme=tokyonight)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-![Mano Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manonmani-pl&theme=tokyo-night)
-
----
 
 # 🌐 Connect With Me
 
