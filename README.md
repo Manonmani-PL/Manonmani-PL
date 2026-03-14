@@ -94,6 +94,8 @@ Features:
 - Low Stock Alerts
 - Dashboard & Analytics
 - Global Search & Filters
+
+Tech
 Laravel
 Filament
 MySQL
