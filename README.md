@@ -76,7 +76,8 @@ Features:
 - Resupply automation
 - Machine integrations for production
 - Printing, cutting, folding and trimming automation
-- Laravel
+Tech
+Laravel
 PHP
 MySQL
 JavaScript
@@ -100,6 +101,7 @@ Laravel
 Filament
 MySQL
 PHP
+
 ---
 
 ### 🎨 ContestHour
