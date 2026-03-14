@@ -1,4 +1,4 @@
-# Hi 👋 I'm Manonmani Palaniappan (Mano)
+# Hi 👋 I'm Mano
 
 <div align="center">
 
