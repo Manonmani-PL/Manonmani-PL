@@ -76,12 +76,14 @@ Features:
 - Resupply automation
 - Machine integrations for production
 - Printing, cutting, folding and trimming automation
+  
 Tech
 Laravel
 PHP
 MySQL
 JavaScript
 Automation APIs
+
 ---
 ### 📦 StockPilot – Inventory Management System
 
