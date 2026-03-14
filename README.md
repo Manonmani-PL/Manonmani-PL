@@ -65,7 +65,6 @@ Exploring **AI tools and system analytics**
 ---
 
 # 📂 Major Projects
-
 ### 🖨 Print Workflow Automation System
 
 An **end-to-end automation system for print production**.
@@ -82,7 +81,23 @@ PHP
 MySQL
 JavaScript
 Automation APIs
+---
+### 📦 StockPilot – Inventory Management System
 
+Inventory and order management system designed to streamline product tracking, supplier management, and order processing with automated stock updates and analytics.
+
+Features:
+
+- Inventory Management
+- Order Processing
+- User & Role Management
+- Low Stock Alerts
+- Dashboard & Analytics
+- Global Search & Filters
+Laravel
+Filament
+MySQL
+PHP
 ---
 
 ### 🎨 ContestHour
